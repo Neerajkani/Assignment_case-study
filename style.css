@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    /* border: 1px solid red; */
+    padding: 25px;
+}
+header h4{
+    float: left;
+    padding: 15px;
+    margin-top: 5px;
+}
+header img{
+    width: 75px;
+    height: 75px;
+    float: left;
+}
+.hello{
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 1px solid black ;
+   padding: 50px;
+   text-align: center;
+}
+.hello h1{
+    color: black;
+    margin-right: 200px
+}
+.navigation h1{
+    float: left;
+    padding: 10px;
+   }
+
+.navigation a{
+    float: left;
+    text-decoration-line: none;
+    color:black;
+    border: 1px solid black;
+    padding: 15px;
+    margin-top: 1px;
+    margin-left: 10%;
+    margin-bottom: 200px;
+ 
+}
+.navigation a:hover {
+    background-color: teal;
+    color: black;
+}
+.about{
+    text-align: justify;
+    margin-top: 10%;
+    margin-left: 40%;
+    margin-right: 20%;
+
+}
+.about h1{
+    color: red;
+}
+.skills{
+    margin-top: 10%;
+    margin-left: 40%;
+    margin-right: 20%;
+}
+.education{
+    margin-top: 10%;
+    margin-left: 40%;
+    margin-right: 20%;
+}
+.my_login{
+    margin-top: 10%;
+    margin-left: 40%;
+    margin-right: 20%;
+}
